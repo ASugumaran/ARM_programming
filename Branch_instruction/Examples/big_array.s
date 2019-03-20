@@ -1,3 +1,4 @@
+;find biggest number in array	
 		AREA RESET,CODE,READONLY
 		ENTRY
 		LDR R1,=MAT ;Assigning MAT address to R1 
