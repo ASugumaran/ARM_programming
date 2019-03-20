@@ -1,3 +1,4 @@
+;Store positive number in one register
 		AREA RESET,CODE,READONLY
 		ENTRY
 		LDR R1,=MAT_1 ;Assigning MAT1 address to R1 
