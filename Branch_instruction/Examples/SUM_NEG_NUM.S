@@ -1,4 +1,4 @@
-;counting how many positive number is there!
+;counting how many negative number is there!
 		AREA RESET,CODE,READONLY
 		ENTRY
 		LDR R1,=MAT ;Assigning MAT address to R1 
